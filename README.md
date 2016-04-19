@@ -4,7 +4,7 @@ LinkAPI is a userscript designed to recognise API mentions in Stack Overflow pos
 ## User guide
 1. Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) Chrome extension
 2. Click the extension in the toolbar and select `Add a new script...` from the popup
-3. Copy and paste the latest userscript from `LinkAPI` folder into the script editor
+3. Copy and paste `LinkAPI.js` into the script editor
 4. Click the save button or press `Ctrl + S` to load the script
 5. Browse any Stack Overflow page or [sample page](http://stackoverflow.com/questions/35782929/pandas-groupby-memory-deallocation) and see the magic happens! (Currently only support posts with Python, Pandas, Matplotlib or Numpy tags)
 
