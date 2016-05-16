@@ -1,5 +1,5 @@
 # LinkAPI
-LinkAPI is a userscript designed to recognise API mentions in Stack Overflow posts and link them to their official API documentations.
+LinkAPI is a userscript designed to recognize API mentions in Stack Overflow posts and link them to their official API documentations.
 
 ## User guide
 1. Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) Chrome extension
@@ -7,6 +7,11 @@ LinkAPI is a userscript designed to recognise API mentions in Stack Overflow pos
 3. Copy the content in `LinkAPI.js` and paste into the script editor
 4. Click the save button or press `Ctrl + S` to load the script
 5. Browse any Stack Overflow page or [sample page](http://stackoverflow.com/questions/35782929/pandas-groupby-memory-deallocation) and see the magic happens! (Currently only support posts with Python, Pandas, Matplotlib or Numpy tags)
+
+## Documentations
+This project is my Final Year Project (FYP) submitted in partial fulfillment of the requirements for the Degree of Bachelor of Engineering (Computer Science) of Nanyang Technological University
+FYP Report: [API Recognition and Linking in Stack Overflow](http://hdl.handle.net/10356/66634)
+Presentation slides: [Download link](https://www.dropbox.com/s/ihv1m4gmf8kei41/API%20Recognition%20and%20Linking%20in%20Stack%20Overflow.pptx?dl=0)
 
 ## License
 The MIT License (MIT)
