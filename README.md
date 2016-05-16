@@ -13,7 +13,7 @@ This project is my Final Year Project (FYP) submitted in partial fulfillment of 
 
 FYP Report: [API Recognition and Linking in Stack Overflow](http://hdl.handle.net/10356/66634)
 
-Presentation slides: [Download link](https://www.dropbox.com/s/ihv1m4gmf8kei41/API%20Recognition%20and%20Linking%20in%20Stack%20Overflow.pptx?dl=0)
+Presentation slides: [Download link](https://www.dropbox.com/s/c9m15rhktcgx3b8/API%20Recognition%20and%20Linking%20in%20Stack%20Overflow.pdf?dl=0)
 
 ## License
 The MIT License (MIT)
